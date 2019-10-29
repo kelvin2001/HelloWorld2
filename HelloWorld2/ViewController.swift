@@ -10,11 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+      
     }
-
+    func twentyOneSavage(){
+        print("Yo why do twentyOneSavage got a twelve car garrage if he only got six cars.")
+    }
 
 }
 
